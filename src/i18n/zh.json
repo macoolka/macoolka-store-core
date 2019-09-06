@@ -1,0 +1,5 @@
+{
+    "macoolka.fs.containerNotExist": "在容器{name}不存在.",
+    "macoolka.fs.folderNotExist": "在容器{container}中不存在文件夹{name}.",
+    "macoolka.fs.fileNotExist": "在容器{container}/文件夹{folder}中不存在文件{name}."
+}

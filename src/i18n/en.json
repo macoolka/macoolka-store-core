@@ -1,0 +1,5 @@
+{
+    "macoolka.fs.containerNotExist": "Container {name} not exist.",
+    "macoolka.fs.folderNotExist": "Folder {name} not exist in container {container}.",
+    "macoolka.fs.fileNotExist": "File {name} not exist in folders {folder} in container {container} ."
+}
